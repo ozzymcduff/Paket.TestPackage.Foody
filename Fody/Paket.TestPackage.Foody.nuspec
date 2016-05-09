@@ -17,6 +17,6 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="Content\**\*.*" target="content" />
+        <file src="Content\**\*.*" target="Content" />
     </files>
 </package>
